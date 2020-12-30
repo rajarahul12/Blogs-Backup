@@ -188,7 +188,7 @@ This covers the basics you need to understand React but there is still a lot mor
 
 - React hooks
 
-and much much more. So I will cover these topics in the upcoming articles. Until then have a good day.
+and much much more.
 
 Let me know in the comments what other topics you want me to cover. I will try to cover those in my next article.
 
