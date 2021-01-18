@@ -111,7 +111,7 @@ p {
 ![Screenshot 2021-01-18 at 1.07.44 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1610912270422/7jo6GtN2N.png)
 - Copy the config as shown below and then create a new file **firebase.js** inside the src folder of your React app and paste the config.
 
-![config.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1610912579547/PsWT7CjML.gif)
+![config.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1610967482419/uhV-F7_YT.gif)
 
 
 ### Step 4
